@@ -19,7 +19,7 @@
 
 ### 运行
 ```bash
-python mvhevc_converter.py
+python mvhevc2sbs.py
 ```
 
 ### 界面说明
